@@ -1,0 +1,3 @@
+Still need validations
+
+Find some bugs of players encounter twice in th ematch
